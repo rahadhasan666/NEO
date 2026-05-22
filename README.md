@@ -17,6 +17,15 @@
 
 # 📦 Installation + Setup + Run
 
+## 🖥️ Virtual Environment Create (Recomended)
+
+```bash
+python3 -m venv bug
+source bug/bin/activate
+```
+
+---
+
 ## 1️⃣ Clone Repository
 
 ```bash
