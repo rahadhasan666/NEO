@@ -1,4 +1,9 @@
 # ☠️ NEO - Aggressive Bug Bounty Automation Framework
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rahadhasan666/NEO/main/Screenshot_2026-05-22_07_39_35.png" width="900">
+  <br>
+  <b>NEO Framework Dashboard</b>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-3.0.0-red.svg">
